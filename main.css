@@ -345,7 +345,6 @@ body {
   }
   
   .flip-card-back {
-    color: black;
     transform: rotateY(180deg);
     opacity: 0,8;
   }
